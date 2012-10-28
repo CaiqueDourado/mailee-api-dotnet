@@ -1,0 +1,20 @@
+C:\Documents and Settings\Drop\Meus documentos\Visual Studio 2010\Projects\Softa\Mailee\Mailee\bin\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\Visual Studio 2010\Projects\Softa\Mailee\Mailee\bin\Debug\Mailee.pdb
+C:\Documents and Settings\Drop\Meus documentos\Visual Studio 2010\Projects\Softa\Mailee\Mailee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Drop\Meus documentos\Visual Studio 2010\Projects\Softa\Mailee\Mailee\obj\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\Visual Studio 2010\Projects\Softa\Mailee\Mailee\obj\Debug\Mailee.pdb
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee\bin\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee\bin\Debug\Mailee.pdb
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee\obj\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee\obj\Debug\Mailee.pdb
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee.Src\bin\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee.Src\bin\Debug\Mailee.pdb
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee.Src\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee.Src\obj\Debug\Mailee.dll
+C:\Documents and Settings\Drop\Meus documentos\DropboxCaique\Dropbox\Projetos\Softa\Mailee\Mailee.Src\obj\Debug\Mailee.pdb
+C:\Users\Sony\Documents\Projetos\Labs\Mailee\Mailee.Src\bin\Debug\Mailee.dll
+C:\Users\Sony\Documents\Projetos\Labs\Mailee\Mailee.Src\bin\Debug\Mailee.pdb
+C:\Users\Sony\Documents\Projetos\Labs\Mailee\Mailee.Src\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sony\Documents\Projetos\Labs\Mailee\Mailee.Src\obj\Debug\Mailee.dll
+C:\Users\Sony\Documents\Projetos\Labs\Mailee\Mailee.Src\obj\Debug\Mailee.pdb

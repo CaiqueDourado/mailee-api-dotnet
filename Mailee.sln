@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mailee", "Mailee.Src\Mailee.csproj", "{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Mailee.Demos", "Mailee.Demos\", "{4B81482B-653C-4913-8369-3A98E7493B77}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		ProjectReferences = "{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}|Mailee.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Mailee.Demos"
+		Debug.AspNetCompiler.PhysicalPath = "Mailee.Demos\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Mailee.Demos\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Mailee.Demos"
+		Release.AspNetCompiler.PhysicalPath = "Mailee.Demos\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Mailee.Demos\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3404"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609E91F5-38CA-49AD-A1A4-3C80018E4C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B81482B-653C-4913-8369-3A98E7493B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81482B-653C-4913-8369-3A98E7493B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B81482B-653C-4913-8369-3A98E7493B77}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B81482B-653C-4913-8369-3A98E7493B77}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
