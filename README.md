@@ -1,10 +1,9 @@
 
 
-
 Mailee.me - Integração com .NET
 =================
 Biblioteca para integração do Mailee.me com .NET
-por Caique Dourado - http://twitter.com/caiquedourado
+por Caique Dourado - http://www.caiquedourado.com.br
 
 
 Configuração
